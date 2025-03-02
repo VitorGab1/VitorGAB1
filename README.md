@@ -4,4 +4,4 @@
 Sou **Vitor Gabriel D. Marques**
 
 - Estou estudando programação :sunny:
-- Estou aprendendo Python :snake:
+- Estou aprendendo a programa :snake:
